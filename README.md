@@ -1,3 +1,3 @@
-# Arquitetura-de-Software
+# Arquitetura de Software
 
-Curso desenvolvedor.io
+Anotações e projeto do curso do desenvolvedor.io
