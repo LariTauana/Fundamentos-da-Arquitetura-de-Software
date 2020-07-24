@@ -7,7 +7,7 @@
      <img src="https://img.shields.io/badge/linguagens-2-red.svg" alt="Linguagens">
   </a>
   <a href="https://github.com/LariTauana/Fundamentos-da-Arquitetura-de-Software/graphs/contributors">
-     <img src="https://img.shields.io/badge/colaboradores-2-red.svg" alt="Colaboradores">
+     <img src="https://img.shields.io/badge/colaboradores-1-red.svg" alt="Colaboradores">
   </a>
 </p>
 
